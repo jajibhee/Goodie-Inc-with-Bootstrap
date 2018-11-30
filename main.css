@@ -1,0 +1,25 @@
+/* .carousel {
+    /* height: 500px; */
+    /* margin-bottom: 50px; */
+
+.carousel-item {
+    height: 800px;
+    width: 450px;
+    position: absolute;
+}
+
+
+.team .col-lg-4 {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+
+.team p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.divider {
+    margin:40px 0px;
+}
